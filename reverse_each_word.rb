@@ -4,6 +4,3 @@ def reverse_each_word(str_of_words)
   puts str_to_array
 end
 
-reverse_each_word("string of words")
-
-
